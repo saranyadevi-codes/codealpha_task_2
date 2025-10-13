@@ -20,3 +20,8 @@
 • for loop — to go through each file.
 • input() and print() — for user interaction and output.
 
+🎓 Learning Outcome
+
+• Learned how to automate tasks using Python scripting.
+• Understood how to work with files and directories using os and shutil.
+• Practiced loops, conditionals, and input/output operations in real-life scenarios.
